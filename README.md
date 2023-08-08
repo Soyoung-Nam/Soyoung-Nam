@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3D85C6,100:0B5394&height=250&text=slow%20and%20steady🍃&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Soyoung's%20Github%20Profile&descSize=25&descAlign=55&descAlignY=50&fontColor=FFFFFF)
-[![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyoung-Nam&include_all_commits=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/Soyoung-Nam/github-readme-stats)
+[![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soyoung-Nam&theme=transparent&hide_border=true&count_private=true)](https://github.com/Soyoung-Nam/github-readme-stats)
 ## 🌱 Tech Stack
 &nbsp;&nbsp;&nbsp;&nbsp; - Used as the main
 <br><br>
